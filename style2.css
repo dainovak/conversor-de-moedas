@@ -1,0 +1,9 @@
+body{
+    font-family:monospace;
+    color: white;
+    background-color: black;
+    background-repeat: no-repeat;
+    background-size: 100vh;
+    min-height: 400px;
+    text-align: center;
+}
